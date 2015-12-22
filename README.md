@@ -1,2 +1,2 @@
 # Example
-This is Example
+This is Example of github 
